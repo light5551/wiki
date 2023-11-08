@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAC-RND Offline.md",
+                "file": "RLPD.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#offline-RL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAC-RND Offline.md",
+                "file": "RLPD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAC-RND Offline.md",
+                "file": "RLPD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAC-RND Offline.md"
+                "file": "RLPD.md"
               }
             }
           }
@@ -149,21 +149,21 @@
   },
   "active": "08f747181e345951",
   "lastOpenFiles": [
-    "FastRLAP.md",
-    "SAC-RND Offline.md",
+    "Reinforcement Learning from Passive Data via Latent Intentions.md",
     "IQL.md",
     "RLPD.md",
+    "WHEN SHOULD WE PREFER OFFLINE REINFORCEMENT LEARNING OVER BEHAVIORAL CLONING?.md",
+    "FastRLAP.md",
+    "HIQL Offline Goal-Conditioned RL with Latent States as Actions.md",
+    "IDQL Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies.md",
+    "Offline Reinforcement Learning Tutorial, Review, and Perspectives on Open Problem.md",
+    "Online RL vs Offline RL.md",
+    "SAC-RND Offline.md",
     "Pasted image 20231102182204.png",
     "Pasted image 20231102182002.png",
-    "WHEN SHOULD WE PREFER OFFLINE REINFORCEMENT LEARNING OVER BEHAVIORAL CLONING?.md",
     "Reinforcement Learning General Book.md",
     "A Workflow for Offline Model-Free Robotic Reinforcement Learning.md",
-    "Offline Reinforcement Learning Tutorial, Review, and Perspectives on Open Problem.md",
-    "IDQL Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies.md",
     "Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
-    "HIQL Offline Goal-Conditioned RL with Latent States as Actions.md",
-    "Reinforcement Learning from Passive Data via Latent Intentions.md",
-    "Online RL vs Offline RL.md",
     "2023-11-02.md",
     "Untitled.canvas",
     "README.md",
