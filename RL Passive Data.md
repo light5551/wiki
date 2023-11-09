@@ -3,7 +3,9 @@ tags:
   - RL
   - offline-RL
 paper: https://arxiv.org/abs/2304.04782
+name: Reinforcement Learning from Passive Data via Latent Intentions
 ---
+
 ## Проблема
 
 Существует оргомное количество контента, которое описывает различные сценарии и так далее. Например, YouTube, но подобные данные являются пассивными, то есть не имеют никакой другой информации, что не подпадает под формализм классического **online** и **offline** RL. А именно не хватает информация  **Actions** и **Rewards**.

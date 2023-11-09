@@ -12,4 +12,26 @@ paper: https://sites.google.com/view/fastrlap
 1. Политика выбирает действие
 2. Pseudo-reset когда машинка врезалась -- начинает ехать назад, чтобы выбраться из терминального состояния
 ## Алгоритм
-![[Pasted image 20231102182204.png]]
+
+1. Data: Prior navigation dataset $\mathcal{D}$, slow demo lap $\mathcal{B}_{\text {slow }}$
+2. Keys: Pre-Training, Practicing, Online RL
+3. while Encoder is not converged do
+		$s, a, s^{\prime}, \operatorname{idx} \leftarrow \operatorname{LoadData}(\mathcal{D})$
+		$g \leftarrow \operatorname{LoadFutureData}(\mathcal{D}$, idx $+\operatorname{RandomOffset}())$
+		$r \leftarrow \operatorname{ComputeReward}(s, a, g)$
+		$\operatorname{Train}_{\mathrm{IQL}}\left((s, g), a, r,\left(s^{\prime}, g\right)\right)$
+4. while True do
+	On Robot
+		$s \leftarrow$ Observe ()
+		if $s$ near $g$ then
+			$g \leftarrow \operatorname{NextCheckpoint}(g)$
+		$r \leftarrow \operatorname{ComputeReward}\left(s_{\text {prev }}, a_{\text {prev }}, g\right)$
+		SendToWorkstation $\left(s_{\text {prev }}, a_{\text {prev }}, r, s, g\right)$
+		$a \sim \pi\left(\phi\left(s_{\text {image }}\right), s_{\text {proprio }}, g\right)$
+		Actuate $(a)$
+		if Collision or Stuck then
+			Execute recovery policy
+	On Workstation
+		ReceiveFromRobot $(\mathcal{B})$
+		$b \leftarrow \operatorname{Sample}(\mathcal{B}), b_{\text {slow }} \leftarrow \operatorname{Sample}\left(\mathcal{B}_{\text {slow }}\right)$
+		$\pi, Q \leftarrow \operatorname{Train}_{\mathrm{RLPD}}\left(\pi, Q, b, b_{\text {slow }}\right)$
