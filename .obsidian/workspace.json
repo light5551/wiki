@@ -15,68 +15,20 @@
               "state": {
                 "file": "pipelines.canvas",
                 "viewState": {
-                  "x": -279.36243281591163,
-                  "y": 2398.0215574344766,
-                  "zoom": -0.8000000000000002
+                  "x": -171.75855652341073,
+                  "y": 2745.6072834884308,
+                  "zoom": -0.7967519047273067
                 }
               }
             }
           },
           {
-            "id": "0e92cce4303c9c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HIQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a3b852c9f4a699b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HIQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6642acdc371bf6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TD3-BC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81cd14d488aad1dc",
+            "id": "7175930d36de0682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b011269124c25b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RLPD.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pipelines.canvas",
+                "file": "CQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pipelines.canvas",
+                "file": "CQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pipelines.canvas"
+                "file": "CQL.md"
               }
             }
           }
@@ -212,14 +164,15 @@
   },
   "active": "fd6f62feee1b9028",
   "lastOpenFiles": [
-    "HIQL.md",
-    "Pasted image 20231109170925.png",
-    "pipelines.canvas",
-    "TD3-BC.md",
     "CQL.md",
+    "pipelines.canvas",
+    "FastRLAP.md",
+    "HIQL.md",
+    "TD3-BC.md",
+    "RL Passive Data.md",
+    "Pasted image 20231109170925.png",
     "RLPD.md",
     "Workflow for Offline RL.md",
-    "RL Passive Data.md",
     "Offline RL Tutorial.md",
     "Offline RL vs BC.md",
     "IDQL.md",
@@ -227,7 +180,6 @@
     "Pasted image 20231109142639.png",
     "Pasted image 20231109142138.png",
     "IQL.md",
-    "FastRLAP.md",
     "Pasted image 20231102182204.png",
     "Untitled 1.canvas",
     "SAC-RND Offline.md",
