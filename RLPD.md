@@ -5,7 +5,11 @@ tags:
 paper: https://arxiv.org/pdf/2302.02948.pdf
 ---
 
-## Algorithm
+## General
+
+Основная идея заключается в обучении агента, используя  50% offline данных и  50% online. В качестве основы был взят алгоритм **SAC**. +Описывается workflow для подбора гиперпараметров и конфигуарция для решения различных задач 
+## Алгоритм
+
 Select `LayerNorm`, Large Ensemble Size $E$, Gradient
 Steps $G$, and architecture.
 Randomly initialize Critic $\theta_i$ (set targets $\theta_i^{\prime}=\theta_i$ ) for $i=1,2, \ldots, E$ and `Actor` $\phi$ parameters. Select discount $\gamma$, temperature $\alpha$ and critic EMA weight $\rho$.

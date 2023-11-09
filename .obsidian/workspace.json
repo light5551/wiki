@@ -15,68 +15,68 @@
               "state": {
                 "file": "pipelines.canvas",
                 "viewState": {
-                  "x": -394.32259587318333,
-                  "y": 2240.707513697076,
+                  "x": -279.36243281591163,
+                  "y": 2398.0215574344766,
                   "zoom": -0.8000000000000002
                 }
               }
             }
           },
           {
-            "id": "ff9e10ebb4e3c9da",
+            "id": "0e92cce4303c9c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL Passive Data.md",
+                "file": "HIQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2178a79592d14951",
+            "id": "5a3b852c9f4a699b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offline RL Tutorial.md",
+                "file": "HIQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9697b68e71d68e57",
+            "id": "a6642acdc371bf6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDQL.md",
+                "file": "TD3-BC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48b3d6292fc67035",
+            "id": "81cd14d488aad1dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offline RL vs BC.md",
+                "file": "CQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdfbe0c30129e4b9",
+            "id": "4b011269124c25b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflow for Offline RL.md",
+                "file": "RLPD.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,28 +212,30 @@
   },
   "active": "fd6f62feee1b9028",
   "lastOpenFiles": [
-    "RL Passive Data.md",
+    "HIQL.md",
+    "Pasted image 20231109170925.png",
     "pipelines.canvas",
+    "TD3-BC.md",
+    "CQL.md",
+    "RLPD.md",
+    "Workflow for Offline RL.md",
+    "RL Passive Data.md",
     "Offline RL Tutorial.md",
     "Offline RL vs BC.md",
     "IDQL.md",
-    "Workflow for Offline RL.md",
     "Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
-    "HIQL.md",
     "Pasted image 20231109142639.png",
     "Pasted image 20231109142138.png",
     "IQL.md",
     "FastRLAP.md",
     "Pasted image 20231102182204.png",
     "Untitled 1.canvas",
-    "CQL.md",
     "SAC-RND Offline.md",
     "Home.md",
     "Online RL vs Offline RL.md",
     "Pasted image 20231102182002.png",
     "Untitled 2.canvas",
     "2023-11-09.md",
-    "RLPD.md",
     "Reinforcement Learning General Book.md",
     "2023-11-02.md",
     "README.md",

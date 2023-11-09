@@ -9,6 +9,7 @@ name: HIQL Offline Goal-Conditioned RL with Latent States as Actions
 2. Extract a high-level policy $\pi(s|a, g)$ to maximize the value function $\max \mathbb{E}\left[\log \pi^h\left(s_{t+k} \mid s_t, g\right) e^{V\left(s_{t+k}, g\right)-V\left(s_t, g\right)}\right]$ - отвечает за следующий waypoint (subgoal)
 3. Extract a low-level policy  $\max \mathbb{E}\left[\log \pi^{\ell}\left(a \mid s_t, s_{t+k}\right) e^{V\left(s_{t+1}, s_{t+k}\right)-V\left(s_t, s_{t+k}\right)}\right]$ -- отвечает за действие
 ![[Pasted image 20231109142639.png]]
+
 где $s$, $s'$, $g$ - нынешнее состояние, следующее состояние, целевое состояние, соответственно.
 
 ##  Основная мысль
