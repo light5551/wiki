@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51c22d83ae3756be",
+        "id": "ef0779e76d389b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6f62feee1b9028",
+            "id": "88ac30aebe22d107",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "pipelines.canvas",
                 "viewState": {
-                  "x": -171.75855652341073,
-                  "y": 2745.6072834884308,
-                  "zoom": -0.7967519047273067
+                  "x": -631.934895879792,
+                  "y": 4098.16939539912,
+                  "zoom": -2.5999999999999996
                 }
-              }
-            }
-          },
-          {
-            "id": "7175930d36de0682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CQL.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IQL.md",
+                "file": "IDQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IQL.md",
+                "file": "IDQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IQL.md"
+                "file": "IDQL.md"
               }
             }
           }
@@ -162,8 +150,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd6f62feee1b9028",
+  "active": "88ac30aebe22d107",
   "lastOpenFiles": [
+    "Home.md",
     "CQL.md",
     "pipelines.canvas",
     "FastRLAP.md",
@@ -183,7 +172,6 @@
     "Pasted image 20231102182204.png",
     "Untitled 1.canvas",
     "SAC-RND Offline.md",
-    "Home.md",
     "Online RL vs Offline RL.md",
     "Pasted image 20231102182002.png",
     "Untitled 2.canvas",
