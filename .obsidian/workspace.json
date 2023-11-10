@@ -15,9 +15,9 @@
               "state": {
                 "file": "pipelines.canvas",
                 "viewState": {
-                  "x": -631.934895879792,
-                  "y": 4098.16939539912,
-                  "zoom": -2.5999999999999996
+                  "x": -133.83755080038202,
+                  "y": 263.0960720359339,
+                  "zoom": -1.7999999999999998
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDQL.md",
+                "file": "pipelines.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDQL.md",
+                "file": "pipelines.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDQL.md"
+                "file": "pipelines.canvas"
               }
             }
           }
@@ -152,28 +152,30 @@
   },
   "active": "88ac30aebe22d107",
   "lastOpenFiles": [
+    "Pasted image 20231109170925.png",
+    "Pasted image 20231109142639.png",
+    "Pasted image 20231109142138.png",
+    "Pasted image 20231102182002.png",
+    "pipelines.canvas",
+    "Pasted image 20231110110111.png",
+    "Pasted image 20231110110124.png",
     "Home.md",
     "CQL.md",
-    "pipelines.canvas",
     "FastRLAP.md",
     "HIQL.md",
     "TD3-BC.md",
     "RL Passive Data.md",
-    "Pasted image 20231109170925.png",
     "RLPD.md",
     "Workflow for Offline RL.md",
     "Offline RL Tutorial.md",
     "Offline RL vs BC.md",
     "IDQL.md",
     "Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
-    "Pasted image 20231109142639.png",
-    "Pasted image 20231109142138.png",
     "IQL.md",
     "Pasted image 20231102182204.png",
     "Untitled 1.canvas",
     "SAC-RND Offline.md",
     "Online RL vs Offline RL.md",
-    "Pasted image 20231102182002.png",
     "Untitled 2.canvas",
     "2023-11-09.md",
     "Reinforcement Learning General Book.md",
