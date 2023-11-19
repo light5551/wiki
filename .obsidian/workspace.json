@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0779e76d389b0e",
+        "id": "7ff005295bfcfd75",
         "type": "tabs",
         "children": [
           {
-            "id": "88ac30aebe22d107",
+            "id": "75a5d4337c7b9e88",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "pipelines.canvas",
                 "viewState": {
-                  "x": -133.83755080038202,
-                  "y": 263.0960720359339,
-                  "zoom": -1.7999999999999998
+                  "x": 4503.975928476366,
+                  "y": 4840.184839927208,
+                  "zoom": -0.4579184112570531
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IQL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "5125406071d3c3e7",
@@ -95,7 +95,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -132,12 +132,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,43 +150,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "88ac30aebe22d107",
+  "active": "75a5d4337c7b9e88",
   "lastOpenFiles": [
     "Pasted image 20231109170925.png",
+    "pipelines.canvas",
+    "HIQL.md",
+    "Home.md",
+    "Offline RL vs BC.md",
+    "IQL.md",
+    "DL/RL/General.md",
     "Pasted image 20231109142639.png",
     "Pasted image 20231109142138.png",
     "Pasted image 20231102182002.png",
-    "pipelines.canvas",
-    "Pasted image 20231110110111.png",
-    "Pasted image 20231110110124.png",
-    "Home.md",
-    "CQL.md",
-    "FastRLAP.md",
-    "HIQL.md",
-    "TD3-BC.md",
-    "RL Passive Data.md",
-    "RLPD.md",
     "Workflow for Offline RL.md",
-    "Offline RL Tutorial.md",
-    "Offline RL vs BC.md",
-    "IDQL.md",
-    "Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
-    "IQL.md",
-    "Pasted image 20231102182204.png",
-    "Untitled 1.canvas",
+    "TD3-BC.md",
     "SAC-RND Offline.md",
-    "Online RL vs Offline RL.md",
-    "Untitled 2.canvas",
-    "2023-11-09.md",
     "Reinforcement Learning General Book.md",
-    "2023-11-02.md",
-    "README.md",
-    "DL/RL/offline RL/Introduction.md",
-    "DL/RL/offline RL/IQL.md",
+    "RLPD.md",
+    "RL Passive Data.md",
+    "Online RL vs Offline RL.md",
+    "Offline RL Tutorial.md",
+    "IDQL.md",
+    "FastRLAP.md",
+    "Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
+    "CQL.md",
+    "Pasted image 20231028234301.png",
     "DL/RL/Online RL vs Offline RL.md",
-    "DL/RL/Untitled.canvas",
-    "DL/RL/online RL",
-    "DL/RL/offline RL",
+    "DL/Untitled.canvas",
+    "Untitled",
+    "README.md",
     "DL",
     "DL/RL"
   ]
