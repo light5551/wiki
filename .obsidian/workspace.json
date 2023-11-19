@@ -15,9 +15,9 @@
               "state": {
                 "file": "pipelines.canvas",
                 "viewState": {
-                  "x": 4503.975928476366,
-                  "y": 4840.184839927208,
-                  "zoom": -0.4579184112570531
+                  "x": 4430.896585059789,
+                  "y": 4789.787333988796,
+                  "zoom": -0.8579184112570531
                 }
               }
             }
@@ -152,6 +152,11 @@
   },
   "active": "75a5d4337c7b9e88",
   "lastOpenFiles": [
+    "No-Mad (NFM).md",
+    "Mental Planner.md",
+    "Mental Mapping.md",
+    "Mental Localization.md",
+    "FNM-structure.canvas",
     "Pasted image 20231109170925.png",
     "pipelines.canvas",
     "HIQL.md",

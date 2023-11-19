@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8aa9ff77b137ce94","type":"group","x":-600,"y":-1320,"width":1520,"height":1960,"color":"4","label":"Robot"},
+		{"id":"a96834caccf0edcc","type":"group","x":1040,"y":-1320,"width":1200,"height":1960,"color":"1","label":"External Service"},
+		{"id":"cc9d84c2d3bd1b4d","type":"file","file":"Mental Planner.md","x":200,"y":-1240,"width":680,"height":760},
+		{"id":"dd83add15c3120d2","type":"file","file":"Mental Localization.md","x":200,"y":-320,"width":680,"height":800},
+		{"id":"47d12e855a63db02","type":"file","file":"No-Mad (NFM).md","x":-560,"y":-1240,"width":720,"height":760},
+		{"id":"d53ce89cc6a09d5e","type":"file","file":"Mental Mapping.md","x":-560,"y":-320,"width":720,"height":800}
+	],
+	"edges":[
+		{"id":"cae7c09c9edadb68","fromNode":"47d12e855a63db02","fromSide":"bottom","toNode":"d53ce89cc6a09d5e","toSide":"top"}
+	]
+}
