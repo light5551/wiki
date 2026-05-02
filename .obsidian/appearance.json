@@ -1,5 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Everforest",
-  "baseFontSize": 25
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 25,
+  "theme": "system",
+  "showRibbon": false
 }

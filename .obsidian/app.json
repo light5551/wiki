@@ -5,5 +5,8 @@
     "landscape": true,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments"
 }

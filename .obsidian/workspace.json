@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "72a0ced341232e07",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "7ff005295bfcfd75",
+        "id": "5ff5655bff817508",
         "type": "tabs",
         "children": [
           {
-            "id": "75a5d4337c7b9e88",
+            "id": "1406d27f44ad4409",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "pipelines.canvas",
-                "viewState": {
-                  "x": 4430.896585059789,
-                  "y": 4789.787333988796,
-                  "zoom": -0.8579184112570531
-                }
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -41,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,15 +90,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pipelines.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -105,86 +108,86 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pipelines.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f39c956cb0e55152",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "0cc5f365ddedb883",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "pipelines.canvas"
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "75a5d4337c7b9e88",
+  "active": "14e5f2228e82555e",
   "lastOpenFiles": [
-    "No-Mad (NFM).md",
-    "Mental Planner.md",
-    "Mental Mapping.md",
-    "Mental Localization.md",
-    "FNM-structure.canvas",
-    "Pasted image 20231109170925.png",
-    "pipelines.canvas",
-    "HIQL.md",
+    "04 Notes/Планы на 2026 + one2one Sosin.md",
+    "02 Areas/Work/sber/hypothesis/Finetune dyn model in inference.md",
+    "02 Areas/Work/sber/Sim/Sim packages.canvas",
+    "01 Projects/Work/SBER/VLA.md",
+    "01 Projects/Work/SBER",
     "Home.md",
-    "Offline RL vs BC.md",
-    "IQL.md",
-    "DL/RL/General.md",
-    "Pasted image 20231109142639.png",
+    "02 Areas/Work/LETI",
+    "02 Areas/Work/sber",
+    "02 Areas/Work",
+    "01 Projects/Personal",
+    "01 Projects/PhD",
+    "01 Projects/Work",
+    "02 Areas/Reinforcement Learning/RL pipeline from pretrain2posttrain.canvas",
+    "02 Areas/Work/sber/creds/Pasted image 20260114115215.png",
+    "03 Resources/DL/RL/Pasted image 20250809180202.png",
+    "03 Resources/DL/RL/Pasted image 20250809161829.png",
+    "03 Resources/DL/RL/Pasted image 20250809161801.png",
+    "Pasted image 20231109170925.png",
+    "02 Areas/Reinforcement Learning/Pasted image 20231109142639.png",
+    "03 Resources/DL/RL/General.md",
     "Pasted image 20231109142138.png",
-    "Pasted image 20231102182002.png",
-    "Workflow for Offline RL.md",
-    "TD3-BC.md",
-    "SAC-RND Offline.md",
-    "Reinforcement Learning General Book.md",
-    "RLPD.md",
-    "RL Passive Data.md",
-    "Online RL vs Offline RL.md",
-    "Offline RL Tutorial.md",
-    "IDQL.md",
-    "FastRLAP.md",
-    "Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
-    "CQL.md",
-    "Pasted image 20231028234301.png",
-    "DL/RL/Online RL vs Offline RL.md",
-    "DL/Untitled.canvas",
-    "Untitled",
-    "README.md",
-    "DL",
-    "DL/RL"
+    "03 Resources/DL/RL/Pasted image 20231028234301.png",
+    "02 Areas/Work/sber/creds/S3.md",
+    "02 Areas/Reinforcement Learning/Pasted image 20231102182002.png",
+    "02 Areas/Reinforcement Learning/CQL.md",
+    "02 Areas/Reinforcement Learning/FastRLAP.md",
+    "02 Areas/Reinforcement Learning/HIQL.md",
+    "02 Areas/Reinforcement Learning/IDQL.md",
+    "02 Areas/Reinforcement Learning/IQL.md",
+    "02 Areas/Reinforcement Learning/Offline RL Tutorial.md",
+    "02 Areas/Reinforcement Learning/Offline RL vs BC.md",
+    "02 Areas/Reinforcement Learning/RL LP Hypothesis.md",
+    "02 Areas/Reinforcement Learning/TD3-BC.md",
+    "02 Areas/Reinforcement Learning/SAC-RND Offline.md",
+    "02 Areas/Reinforcement Learning/RLPD.md",
+    "02 Areas/Reinforcement Learning/RL Passive Data.md",
+    "03 Resources/RL Courses/Материалы по RL.md",
+    "03 Resources/RL Courses/DreamerV3.md",
+    "02 Areas/Robotics/Simulation/Isaac.md",
+    "02 Areas/Robotics/Simulation",
+    "03 Resources/DL/Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
+    "04 Notes/README.md.md",
+    "Templates",
+    "02 Areas/Robotics",
+    "02 Areas/Work/sber/тестовое задание/Тестовое задание №2. Senior RL-Sim Engineer.md",
+    "02 Areas/Work/sber/тестовое задание/Тестовое задание №1. Senior RL-Sim Engineer.md",
+    "Аспирантура/Задачи.md",
+    "FNM-structure.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "DL/Untitled.canvas"
   ]
 }

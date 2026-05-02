@@ -1,0 +1,1 @@
+Permanent Notes, Concepts, Ideas

@@ -1,1 +1,0 @@
-	OptimalTraversal в MentalPlanning
