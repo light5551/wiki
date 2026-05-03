@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ff5655bff817508",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1406d27f44ad4409",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,45 +81,92 @@
     "type": "split",
     "children": [
       {
-        "id": "e3fe2d3d070b3c5f",
+        "id": "8627ebe1b41f413b",
         "type": "tabs",
         "children": [
           {
-            "id": "4c44652abe29a8a9",
+            "id": "0b15ac727e392752",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Areas/nn/Flow Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Flow Matching"
             }
           },
           {
-            "id": "8687acccdc7ec358",
+            "id": "08921da4eed18c2c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Areas/nn/Flow Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Flow Matching"
+            }
+          },
+          {
+            "id": "b757b3cfa423fc06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f5db520e2ad3465",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "477d1e49fa5aa439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Areas/nn/Flow Matching.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Flow Matching"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,8 +182,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14e5f2228e82555e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 Areas/nn/Flow Matching.md",
+    "[[ODE&SDE]].md",
+    "02 Areas/Reinforcement Learning/FPO control.md",
+    "ODE.md",
+    "02 Areas/Math/ODE&SDE.md",
+    "02 Areas/nn/Diffusion.md",
+    "02 Areas/Math",
+    "02 Areas/nn",
+    "02 Areas/Work/sber/infra/SWR.md",
+    "02 Areas/Work/sber/infra/S3.md",
+    "02 Areas/Work/sber/infra/kaspersky.md",
+    "02 Areas/Work/sber/infra/Access to Jira&Confluence.md",
+    "02 Areas/Work/sber/creds/S3.md",
+    "02 Areas/Work/sber/creds/Cloud.md",
+    "02 Areas/Work/sber/papers/18.10.2025/Для канала.md",
+    "02 Areas/Reinforcement Learning/HIQL.md",
+    "02 Areas/Reinforcement Learning/Untitled",
     "04 Notes/Планы на 2026 + one2one Sosin.md",
     "02 Areas/Work/sber/hypothesis/Finetune dyn model in inference.md",
     "02 Areas/Work/sber/Sim/Sim packages.canvas",
@@ -159,31 +223,14 @@
     "03 Resources/DL/RL/General.md",
     "Pasted image 20231109142138.png",
     "03 Resources/DL/RL/Pasted image 20231028234301.png",
-    "02 Areas/Work/sber/creds/S3.md",
     "02 Areas/Reinforcement Learning/Pasted image 20231102182002.png",
     "02 Areas/Reinforcement Learning/CQL.md",
     "02 Areas/Reinforcement Learning/FastRLAP.md",
-    "02 Areas/Reinforcement Learning/HIQL.md",
     "02 Areas/Reinforcement Learning/IDQL.md",
     "02 Areas/Reinforcement Learning/IQL.md",
     "02 Areas/Reinforcement Learning/Offline RL Tutorial.md",
     "02 Areas/Reinforcement Learning/Offline RL vs BC.md",
     "02 Areas/Reinforcement Learning/RL LP Hypothesis.md",
-    "02 Areas/Reinforcement Learning/TD3-BC.md",
-    "02 Areas/Reinforcement Learning/SAC-RND Offline.md",
-    "02 Areas/Reinforcement Learning/RLPD.md",
-    "02 Areas/Reinforcement Learning/RL Passive Data.md",
-    "03 Resources/RL Courses/Материалы по RL.md",
-    "03 Resources/RL Courses/DreamerV3.md",
-    "02 Areas/Robotics/Simulation/Isaac.md",
-    "02 Areas/Robotics/Simulation",
-    "03 Resources/DL/Diffusion Policy  Visuomotor Policy Learning via Action Diffusion.md",
-    "04 Notes/README.md.md",
-    "Templates",
-    "02 Areas/Robotics",
-    "02 Areas/Work/sber/тестовое задание/Тестовое задание №2. Senior RL-Sim Engineer.md",
-    "02 Areas/Work/sber/тестовое задание/Тестовое задание №1. Senior RL-Sim Engineer.md",
-    "Аспирантура/Задачи.md",
     "FNM-structure.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
