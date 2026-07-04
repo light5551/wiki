@@ -1,6 +1,15 @@
+## TODO
+
+- [ ] Добавить информация как запустить и останавливать. Мб в CLI
+- [ ] Добавить функционал логов
+- [ ] Добавить базовые таски в Vhal
+	- [ ] demo zone + box/table
+	- [ ] demo zone w/ table manipulation
+- [ ] Инструкция для остальных как запустить
+- [ ] Статистика как часто пользуются 
 ## Prerequisites
 
-1.  Включить VPN для сети 10.10.0.0/24
+1. Иметь VPN для сети 10.10.0.0/24
 2. Установить `sudo apt install tigervnc-viewer`
 
 ## How to connect Vhal Stand

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Areas/Work/sber/projects/VHAL/VHAL Stand.md",
+                "file": "02 Areas/Work/sber/projects/NavVLA/Design Doc -- Navigation VLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VHAL Stand"
+              "title": "Design Doc -- Navigation VLA"
             }
           }
         ]
@@ -186,13 +186,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "14e5f2228e82555e",
   "lastOpenFiles": [
-    "02 Areas/Work/sber/projects/MiniVLA/Usefull Links&Infos.md",
+    "02 Areas/Work/sber/projects/NavVLA",
+    "02 Areas/Work/sber/Manipulation/utils/Dataset Dashboard.md",
+    "02 Areas/Work/sber/Manipulation/сопоставление джоинтов.md",
     "02 Areas/Work/sber/projects/VHAL/VHAL Stand.md",
+    "02 Areas/Work/sber/projects/VHAL/How to move a custom ROS 2 node to simulation time.md",
+    "02 Areas/Work/sber/projects/MiniVLA/Usefull Links&Infos.md",
     "02 Areas/Work/sber/projects/VHAL/Sim packages.canvas",
     "02 Areas/Work/sber/projects/VHAL/Usage.md",
-    "02 Areas/Work/sber/projects/VHAL/How to move a custom ROS 2 node to simulation time.md",
     "02 Areas/Work/sber/projects/Lerobot-fork",
     "02 Areas/Work/sber/projects/MiniVLA",
     "02 Areas/Work/sber/projects",
@@ -218,10 +221,7 @@
     "02 Areas/Work/sber/тестовое задание/Тестовое задание №2. Senior RL-Sim Engineer.md",
     "00 Inbox/How to use World-Model for training.md",
     "01 Projects/PhD/Положения.md",
-    "02 Areas/Robotics/Simulation/Isaac.md",
-    "01 Projects/PhD/Статьи.md",
     "04 Notes/mm",
-    "02 Areas/Robotics/conferencies/ICRA2026/PAPERS.md",
     "02 Areas/Robotics/conferencies/ICRA2026",
     "02 Areas/Robotics/conferencies",
     "02 Areas/Work/sber/creds/Pasted image 20260114115215.png",
